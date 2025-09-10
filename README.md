@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📚 Book Price Parser
 
 Простой парсер книг с [Labirint.ru](https://www.labirint.ru/), написанный на Python.  
@@ -11,7 +11,7 @@
    ```bash
    git clone https://github.com/USERNAME/book-parser.git
    cd book-parser
-````
+
 
 2. Установить зависимости:
 
@@ -38,8 +38,6 @@ python parser.py
 ## 🖼️ Скриншот
 
 ![demo](docs/demo.png)
-
-*(Добавьте скриншот Excel с результатом в папку `docs/`)*
 
 ## 🛠️ Технологии
 

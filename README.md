@@ -9,9 +9,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/USERNAME/book-parser.git
-   cd book-parser
-
+   git clone https://github.com/322coder/-Book-Price-Parser.git
 
 2. Установить зависимости:
 
